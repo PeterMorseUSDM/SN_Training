@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 12:52:26</sys_created_on>
+        <sys_id>e572a0f1d1a0a0107f440fef2dede620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e4a444d5882060107f44b7785109c91b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e4a444d5882060107f44b7785109c91b</sys_scope>
+        <sys_update_name>sys_properties_category_e572a0f1d1a0a0107f440fef2dede620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 12:52:26</sys_updated_on>
+        <title><![CDATA[<p>Loaner Request Properties and some other stuff I might add.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e572a0f1d1a0a0107f440fef2dede620"/>
+</record_update>
